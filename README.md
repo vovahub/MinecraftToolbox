@@ -10,3 +10,6 @@ We allow anyone to modify our project. However, since it was created using Turbo
 
 Although we call this a "toolbox," it actually only has two functions, as mentioned earlier. Well, it might not be very useful, but at least it's my first open-source project! :D
 (Just realized the irony—an English description for a project that's not in English! sorry...):/
+__________
+您需要在release里面找到发行文件,别问为什么他不直接在release菜单因为该死的我不知道怎么在本地桌面app上放上去并且浏览器上传还有限制>:(
+You need to find the release files in the 'Releases' section. Don't ask why it's not directly in the release menu — damn if I know how to upload them through the desktop app, and the browser has that stupid file size limit! >:(
