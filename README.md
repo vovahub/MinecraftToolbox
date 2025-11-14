@@ -12,4 +12,6 @@ Although we call this a "toolbox," it actually only has two functions, as mentio
 (Just realized the irony—an English description for a project that's not in English! sorry...):/
 __________
 您需要在release里面找到发行文件,别问为什么他不直接在release菜单因为该死的我不知道怎么在本地桌面app上放上去并且浏览器上传还有限制>:(
+或者您可以点击[这个](https://github.com/vovahub/MinecraftToolbox/raw/deae2d59caf2342442513709650e21746f6b4087/release/MC%E5%B7%A5%E5%85%B7%E7%AE%B1%20Setup.exe)直接下载文件,放心他是github路径
 You need to find the release files in the 'Releases' section. Don't ask why it's not directly in the release menu — damn if I know how to upload them through the desktop app, and the browser has that stupid file size limit! >:(
+"Alternatively, you can download the file directly via [\[!\]](https://github.com/vovahub/MinecraftToolbox/raw/deae2d59caf2342442513709650e21746f6b4087/release/MC%E5%B7%A5%E5%85%B7%E7%AE%B1%20Setup.exe). Don't worry, it's a GitHub path.
